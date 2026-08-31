@@ -1,9 +1,13 @@
 # Retail Sales Analysis
 
 ## 📊 Project Overview
+
 This project analyzes retail sales data to understand sales performance, customer behavior, product categories, and monthly sales trends.
 
 The project was developed using Python in Google Colab and Power BI for data visualization and dashboard creation.
+## 📊 Dashboard Preview
+
+![Retail Sales Dashboard](Dashboard.png.png)
 
 ## 🛠️ Tools & Technologies
 - Python
